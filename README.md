@@ -1,2 +1,2 @@
-# JS-ile-Beden-Kitle-Endeksi-Hesaplama-Uygulamas-rne-i
-Javascript ile Beden Kitle Endeksi Hesaplama Örneği
+# Calculating body mass index using JavaScript only
+Example of calculating body mass index using JavaScript only.
